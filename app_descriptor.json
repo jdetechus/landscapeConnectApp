@@ -5,7 +5,7 @@
     "description": "Architecture Landscapes in Action",
     "vendor": {
       "name": "JDE Technical Services",
-      "url": "http://www/jdetech.us"
+      "url": "http://www.jdetech.us"
     },
     "links": {
       "self": "https://github.com/jdetechus/landscapeConnectApp/app_descriptor.json"
@@ -14,7 +14,7 @@
       "installed": "/installed",
       "uninstalled": "/uninstalled"
     },
-    "baseUrl": "http://www.example.com/connect/jira",
+    "baseUrl": "https://87250dbe49a6.ngrok.io",
     "authentication": {
       "type": "jwt"
     },
