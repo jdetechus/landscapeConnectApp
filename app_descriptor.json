@@ -3,10 +3,6 @@
     "key": "jde-landscape",
     "name": "Landscapes",
     "description": "Architecture Landscapes in Action",
-    "vendor": {
-      "name": "JDE Technical Services",
-      "url": "http://www.jdetech.us"
-    },
     "links": {
       "self": "https://github.com/jdetechus/landscapeConnectApp/blob/main/app_descriptor.json"
     },
@@ -20,7 +16,7 @@
     },
     "enableLicensing": false,
     "scopes": [
-      "read",
-      "write"
+      "READ",
+      "ADMIN"
     ]
   }
