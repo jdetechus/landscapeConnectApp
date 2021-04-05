@@ -8,7 +8,7 @@
       "url": "http://www.jdetech.us"
     },
     "links": {
-      "self": "https://github.com/jdetechus/landscapeConnectApp/app_descriptor.json"
+      "self": "https://github.com/jdetechus/landscapeConnectApp/blob/main/app_descriptor.json"
     },
     "lifecycle": {
       "installed": "/installed",
