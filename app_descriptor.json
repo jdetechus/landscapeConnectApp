@@ -1,0 +1,26 @@
+{
+    "modules": {},
+    "key": "jde-landscape",
+    "name": "Landscapes",
+    "description": "Architecture Landscapes in Action",
+    "vendor": {
+      "name": "JDE Technical Services",
+      "url": "http://www/jdetech.us"
+    },
+    "links": {
+      "self": "https://github.com/jdetechus/landscapeConnectApp/app_descriptor.json"
+    },
+    "lifecycle": {
+      "installed": "/installed",
+      "uninstalled": "/uninstalled"
+    },
+    "baseUrl": "http://www.example.com/connect/jira",
+    "authentication": {
+      "type": "jwt"
+    },
+    "enableLicensing": false,
+    "scopes": [
+      "read",
+      "write"
+    ]
+  }
