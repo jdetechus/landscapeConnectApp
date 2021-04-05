@@ -4,6 +4,10 @@
     "name": "Landscapes",
     "description": "Architecture Landscapes in Action",
     "baseUrl": "https://87250dbe49a6.ngrok.io",
+    "vendor": {
+      "name": "JDE Technical Services",
+      "url": "http://www.jdetech.us"
+    },
     "lifecycle": {
       "installed": "/installed",
       "uninstalled": "/uninstalled"
