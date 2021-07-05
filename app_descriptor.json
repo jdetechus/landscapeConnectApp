@@ -17,7 +17,7 @@
     },
     "enableLicensing": false,
     "scopes": [
-      "READ",
-      "ADMIN"
+      "read",
+      "write"
     ]
   }
