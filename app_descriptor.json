@@ -18,6 +18,7 @@
     "enableLicensing": false,
     "scopes": [
       "read",
-      "write"
+      "write",
+      "admin"
     ]
   }
